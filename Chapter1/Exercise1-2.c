@@ -1,3 +1,7 @@
+/*
+    Experiment to find out what happens when printf's argument string contains \c, where c is somo character not listed above.
+*/
+
 #include <stdio.h>
 
 /* The character \c is unknow by gcc, For more info:

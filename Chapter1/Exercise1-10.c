@@ -1,3 +1,8 @@
+/*
+    Write a program to copy its input to its output, replacing each tab by \t, each backspace by  \b, and each backslash by \\. 
+    This makes tabs and backspace visible in an ambiguous way.
+*/
+
 #include <stdio.h>
 
 /*

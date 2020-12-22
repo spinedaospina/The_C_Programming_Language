@@ -1,5 +1,8 @@
-#include <stdio.h>
+/*
+    Write a program to count blanks, tabs and newlines
+*/
 
+#include <stdio.h>
 
 /*
     Remember press ctrl + d to send 'EOF' through console
